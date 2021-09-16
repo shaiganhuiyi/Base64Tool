@@ -1,0 +1,3 @@
+﻿  Base64Tool.cpp
+C:\Users\Thinkpad\source\repos\Base64Tool\Base64Tool\Base64Tool.cpp(6,9): warning C4695: #pragma execution_character_set: 'gbk' 不是受支持的参数: 当前仅支持“UTF-8”
+  Base64Tool.vcxproj -> C:\Users\Thinkpad\source\repos\Base64Tool\Debug\Base64Tool.exe
